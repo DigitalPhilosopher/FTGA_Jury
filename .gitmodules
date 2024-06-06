@@ -1,0 +1,3 @@
+[submodule "FTGA"]
+	path = FTGA
+	url = git@hf.co:datasets/DigitalPhilosopher/FTGA

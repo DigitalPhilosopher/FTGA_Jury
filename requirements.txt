@@ -5,6 +5,7 @@ fuzzywuzzy
 python-Levenshtein
 transformers==4.40.2
 matplotlib
+datasets
 
 --extra-index-url https://download.pytorch.org/whl/cu121
 
